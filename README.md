@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/abisha-g645010313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abisha-g-645010313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:gabisha075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://expense-tracker-enx2.onrender.com"><img src="https://img.shields.io/badge/-Live%20Demo-F97316?style=for-the-badge&logo=render&logoColor=white" /></a>
 
@@ -146,7 +146,7 @@ guest@portfolio:~$ _
 
 ### 💬 Let's Build Something Together
 
-<a href="https://linkedin.com/in/abisha-g645010313"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abisha-g-645010313"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gabisha075@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <br/><br/>
