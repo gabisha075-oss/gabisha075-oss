@@ -20,44 +20,33 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">🧬 The Source Code</h2>
+<h2 align="center">🧬 whoami</h2>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```yaml
-abisha:
-  role: "Python Full Stack Developer"
-  based_in: "Chennai, Tamil Nadu, India"
+```console
+guest@portfolio:~$ whoami
 
-  trained_at: "Besant Technologies"
-  interned_at:
-    - "Nim Technologies — Python & Django"
-    - "Genlab IB — Python Fundamentals"
+  ┌─────────────────────────────────────────────────────┐
+  │  NAME        Abisha G                                │
+  │  ROLE        Python Full Stack Developer             │
+  │  LOCATION    Chennai, Tamil Nadu, India               │
+  ├─────────────────────────────────────────────────────┤
+  │  TRAINED     Besant Technologies                      │
+  │  INTERNED    Nim Technologies · Genlab IB             │
+  ├─────────────────────────────────────────────────────┤
+  │  BACKEND     Python · Django · Flask · REST           │
+  │  FRONTEND    React · Vite · JS · HTML5 · CSS3         │
+  │  DATABASE    MySQL · SQLite                            │
+  │  PATTERN     MVC / MVT                                │
+  ├─────────────────────────────────────────────────────┤
+  │  STATUS      🟢 Open to Full Stack Developer roles     │
+  └─────────────────────────────────────────────────────┘
 
-  stack:
-    backend:  [Python, Django, Flask, REST]
-    frontend: [React, Vite, JavaScript, HTML5, CSS3]
-    database: [MySQL, SQLite]
-    tools:    [Git, GitHub, NumPy, Pandas]
-
-  architecture: "MVC / MVT"
-  currently_building: "Full-stack apps, deployment-ready"
-  status: "🟢 open to Full Stack Developer roles"
-
-  fun_fact: >
-    ships bugs slower than she ships fixes 🐛➡️✅
+guest@portfolio:~$ _
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
