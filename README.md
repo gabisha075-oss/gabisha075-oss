@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://gabisha075-oss.github.io"><img src="https://img.shields.io/badge/Full%20portfolio-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Full portfolio"/></a>
+<a href="https://gabisha075-oss.github.io/gabisha075-oss/"><img src="https://img.shields.io/badge/Full%20portfolio-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Full portfolio"/></a>
 <a href="https://expense-tracker-enx2.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-22D3EE?style=for-the-badge&logo=render&logoColor=0d0a26" alt="Live demo"/></a>
 <a href="mailto:gabisha075@gmail.com"><img src="https://img.shields.io/badge/Email%20me-7C6CF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/abisha-g-645010313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
