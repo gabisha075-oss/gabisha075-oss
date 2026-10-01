@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Abisha G, Python Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/gabisha075-oss/gabisha075-oss/main/assets/hero.svg" width="100%" alt="Abisha G, Python Full Stack Developer"" width="100%" alt="Abisha G, Python Full Stack Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=720&height=50&lines=%3E+I+build+web+apps+you+can+open+and+use;%3E+Django+%2B+React+%2B+MySQL;%3E+2+Internships+%7C+6+Projects+%7C+1+Live+App;%3E+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation"/>
 
